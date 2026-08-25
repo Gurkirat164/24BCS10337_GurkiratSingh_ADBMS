@@ -1,0 +1,1 @@
+UNION combines and eliminates duplicates from the result sets, while UNION ALL combines all rows without eliminating duplicates.
